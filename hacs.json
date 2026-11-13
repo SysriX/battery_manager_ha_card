@@ -1,0 +1,5 @@
+{
+  "name": "Battery Manager Card",
+  "filename": "battery_manager_ha_card.js",
+  "homeassistant": "2024.1.0"
+}
