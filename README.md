@@ -1,5 +1,17 @@
 # Battery Manager Card
 
+![Battery Manager Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant).*
+
+<details><summary>More screenshots</summary>
+
+**Notification rules**
+
+![Battery Manager Card – Notification rules](docs/images/rules.png)
+
+</details>
+
 Lovelace card (`custom:batterie-manager`) for the **Battery Manager** integration (`battery_manager_ha_integration`, domain `batterie_manager`). It shows every battery-powered device of your home with its level, forecast and replacement history, and lets you manage battery classes, battery types, notification rules and settings – all data comes from the integration's WebSocket API (stored in MariaDB by the integration).
 
 UI language: German.
